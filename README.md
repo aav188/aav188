@@ -5,6 +5,8 @@
 - :school: I am a `Junior` at [Escola Politècnica Superior](https://www.eps.udl.cat/ca/) at [Lleida University](https://www.udl.cat/ca/).
 - :trophy: 1x `UDL` participant.
 - :trophy: 1x `UPC` participant.<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
+- :trophy: 1x `UDL` Bonarea 2 place.
+
 
 - :technologist: I love using Software as a solution for every `Problem`.
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
